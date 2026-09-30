@@ -1,0 +1,17 @@
+.family-art {
+  height: 147px;
+  border-radius: 6px;
+  overflow: hidden;
+  margin-bottom: 19px;
+  background: #eef1ea;
+}
+.family-art img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+  transition: transform 0.4s cubic-bezier(0.2, 0.7, 0.2, 1);
+}
+.family-card:hover .family-art img {
+  transform: scale(1.05);
+}

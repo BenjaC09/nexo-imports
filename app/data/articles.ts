@@ -1,0 +1,34 @@
+export interface Article {
+  slug: string
+  title: string
+  excerpt: string
+  date: string
+  readingMinutes: number
+}
+
+export const articles: Article[] = [
+  {
+    slug: 'como-comprar-iphone-mayorista-para-revender',
+    title: 'Cómo comprar iPhone mayorista para revender',
+    excerpt:
+      'Qué mirar antes de elegir un proveedor, cómo armar tu primer pedido y qué errores evitar al empezar a revender iPhone.',
+    date: '2026-09-08',
+    readingMinutes: 5
+  },
+  {
+    slug: 'como-elegir-proveedor-de-celulares',
+    title: 'Qué tener en cuenta al elegir un proveedor de celulares',
+    excerpt:
+      'Una guía práctica para evaluar proveedores mayoristas de tecnología antes de hacer tu primer pedido.',
+    date: '2026-09-08',
+    readingMinutes: 6
+  },
+  {
+    slug: 'mayorista-vs-minorista-diferencias',
+    title: 'Diferencias entre comprar celulares mayorista y minorista',
+    excerpt:
+      'En qué se diferencian las dos formas de comprar tecnología, y cómo saber cuál te conviene según tu negocio.',
+    date: '2026-09-08',
+    readingMinutes: 5
+  }
+]

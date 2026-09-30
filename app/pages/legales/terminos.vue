@@ -1,0 +1,49 @@
+<script setup lang="ts">
+useSiteSeo({
+  title: 'Información de compra',
+  description:
+    'Cómo consultar disponibilidad, precio mayorista y condiciones de compra en Nexo Imports.',
+  path: '/legales/terminos',
+  noindex: true
+})
+</script>
+<template>
+  <div class="shell content-section narrow-content legal-copy">
+    <header class="page-header">
+      <p class="eyebrow">INFORMACIÓN DEL SITIO</p>
+      <h1>Antes de comprar</h1>
+    </header>
+    <p>
+      Este sitio es informativo. Las consultas se realizan directamente con Nexo
+      Imports por WhatsApp; la web no procesa compras, pagos ni reservas.
+    </p>
+    <h2>Precios, disponibilidad y entrega</h2>
+    <p>
+      No publicamos precios ni stock en la web: cambian constantemente según
+      cotización, modelo y disponibilidad. Confirmá el precio mayorista, la
+      disponibilidad, los medios de pago y las opciones de entrega o envío en
+      cada consulta.
+    </p>
+    <h2>Garantía</h2>
+    <p>
+      Las condiciones de garantía dependen de cada producto y marca. Consultá
+      la cobertura y las condiciones aplicables al equipo o accesorio elegido
+      antes de confirmar la compra.
+    </p>
+    <h2>Nexo Imports y las marcas mencionadas</h2>
+    <p>
+      Nexo Imports es un comercio mayorista de tecnología independiente.
+      Trabajamos con productos de marcas como Apple, Samsung, Xiaomi, POCO,
+      Motorola y JBL, entre otras, pero no somos distribuidor oficial, importador
+      oficial ni service oficial de ninguna de ellas, salvo que se indique lo
+      contrario de forma expresa. Las marcas mencionadas pertenecen a sus
+      respectivos dueños.
+    </p>
+    <h2>Sobre las imágenes</h2>
+    <p>
+      Las ilustraciones de la página son orientativas. Las características y
+      terminaciones del producto se confirman al consultar el modelo exacto.
+    </p>
+    <WhatsAppCta class="mt-6" label="Consultar condiciones" />
+  </div>
+</template>

@@ -1,0 +1,82 @@
+{
+  "pages": [
+    {
+      "width": 1440,
+      "path": "/",
+      "overflow": false
+    },
+    {
+      "width": 1440,
+      "path": "/mayorista/",
+      "overflow": false
+    },
+    {
+      "width": 1440,
+      "path": "/minorista/",
+      "overflow": false
+    },
+    {
+      "width": 1440,
+      "path": "/mayorista/iphone-mayorista/",
+      "overflow": false
+    },
+    {
+      "width": 1440,
+      "path": "/minorista/apple/",
+      "overflow": false
+    },
+    {
+      "width": 390,
+      "path": "/",
+      "overflow": false
+    },
+    {
+      "width": 390,
+      "path": "/mayorista/",
+      "overflow": false
+    },
+    {
+      "width": 390,
+      "path": "/minorista/",
+      "overflow": false
+    },
+    {
+      "width": 390,
+      "path": "/mayorista/iphone-mayorista/",
+      "overflow": false
+    },
+    {
+      "width": 390,
+      "path": "/minorista/apple/",
+      "overflow": false
+    },
+    {
+      "width": 320,
+      "path": "/",
+      "overflow": false
+    },
+    {
+      "width": 320,
+      "path": "/mayorista/",
+      "overflow": false
+    },
+    {
+      "width": 320,
+      "path": "/minorista/",
+      "overflow": false
+    },
+    {
+      "width": 320,
+      "path": "/mayorista/iphone-mayorista/",
+      "overflow": false
+    },
+    {
+      "width": 320,
+      "path": "/minorista/apple/",
+      "overflow": false
+    }
+  ],
+  "whatsappMessage": "Hola Nexo Imports, quiero consultar una compra mayorista.\nMarca: Samsung.\nModelo: Galaxy S25.\nCantidad: 6.\nLocalidad: Córdoba.\n¿Me pasás precio, disponibilidad, forma de pago, garantía y opciones de entrega?",
+  "retailCTA": "Hola Nexo Imports, quiero consultar precio, disponibilidad, garantía y envío para una compra por unidad.",
+  "runtimeErrors": []
+}

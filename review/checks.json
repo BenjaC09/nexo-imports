@@ -1,0 +1,12 @@
+{
+  "lint": "passed",
+  "typescript": "passed",
+  "catalogTests": "2 passed",
+  "staticGeneration": "passed",
+  "seoPreview": "16 routes passed",
+  "browser": "15 route/viewport checks passed",
+  "notes": [
+    "Production domain not configured; preview noindex preserved.",
+    "No messages sent, no purchases, no deployment."
+  ]
+}
